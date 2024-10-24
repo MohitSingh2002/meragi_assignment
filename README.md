@@ -1,16 +1,8 @@
-# meragi_assignment
+# Meragi Assignment
 
 Flutter Assignment
 
-## Getting Started
+Access Site from here : https://meragi-assignment.web.app
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Desktop](https://github.com/user-attachments/assets/bf864b73-d421-41de-9923-e593310e6436)
+![Mobile](https://github.com/user-attachments/assets/53523d7c-1029-455e-9c40-13a0654b9a23)
